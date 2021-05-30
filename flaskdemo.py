@@ -1,3 +1,10 @@
+"""
+Allow user to navigate between 'home', 'about', and 'search'. If a search entry is made, return the corresponding
+wikipedia page as the result.
+
+Flask Demo. Created by Lindsay Ward, modified by Malia D'Mello, May 2021.
+"""
+
 from flask import Flask, render_template, request, redirect, url_for, session
 import wikipedia
 
