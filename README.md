@@ -1,2 +1,2 @@
 # FlaskWikiProject
-This repository contains my modified flaskdemo project.
+Flask + Wiki Project with modifications.
